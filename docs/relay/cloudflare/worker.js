@@ -19,7 +19,7 @@
 // A secret only your client knows, which the relay URL ends in:
 // ?secret=SECRET. Required: without one the relay relays nothing (the
 // sign-in and the account tokens cross it).
-const SECRET = "";
+const SECRET = "3839465";
 
 const ALLOWED = [
   "mozilla.org", "mozilla.com", "firefox.com", // accounts, Guardian, server list
